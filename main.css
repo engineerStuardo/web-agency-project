@@ -85,10 +85,11 @@ nav ul li a:hover {
 }
 
 .banner-text {
-  font-size: 50px;
+  font-size: 75px;
   text-transform: uppercase;
   color: #e0e2db;
   font-style: italic;
+  text-align: center;
 }
 
 .banner-underline {
